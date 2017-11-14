@@ -23,7 +23,7 @@ This sample requires the following:
 
   * [Visual Studio](https://www.visualstudio.com/en-us/downloads) 
   * Either a [Microsoft account](https://www.outlook.com) or [Office 365 for business account](https://msdn.microsoft.com/en-us/office/office365/howto/setup-development-environment#bk_Office365Account). You can sign up for [an Office 365 Developer subscription](https://msdn.microsoft.com/en-us/office/office365/howto/setup-development-environment#bk_Office365Account) that includes the resources that you need to start building Office 365 apps.
-  * * Upload the **demo.xlsx** file in the root of this repository to the root folder of your OneDrive account. This file contains an empty table with two columns.
+  * Upload the **demo.xlsx** file in the root of this repository to the root folder of your OneDrive account. This file contains an empty table with two columns.
   
 ## Register the application
 
@@ -67,7 +67,7 @@ This sample requires the following:
 
 6. Choose the **Get email address** button. When the operation completes, the name and email address of the signed-in user are displayed on the page.
 
-7. Choose the **Upload to Excel** button. When the mail is sent, a Success message is displayed below the button.
+7. Choose the **Upload to Excel** button. The application creates a new row in the demo.xlsx workbook and adds the user name and email address to taht row. A Success message is displayed below the button.
 
 ## Questions and comments
 
