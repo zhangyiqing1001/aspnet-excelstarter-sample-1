@@ -10,7 +10,7 @@ using System.Linq;
 using System.Threading;
 using System.Web;
 
-namespace Microsoft_Graph_REST_ASPNET_Connect.TokenStorage
+namespace Microsoft_Graph_Excel_REST_ASPNET.TokenStorage
 {
 
     // Store the user's token information.

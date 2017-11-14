@@ -15,7 +15,7 @@ using System.Threading.Tasks;
 using Resources;
 using System.IO;
 
-namespace Microsoft_Graph_REST_ASPNET_Connect.Models
+namespace Microsoft_Graph_Excel_REST_ASPNET.Models
 {            
     
     // This sample shows how to:

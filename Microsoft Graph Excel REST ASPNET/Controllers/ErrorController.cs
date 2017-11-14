@@ -5,7 +5,7 @@
 
 using System.Web.Mvc;
 
-namespace Microsoft_Graph_REST_ASPNET_Connect.Controllers
+namespace Microsoft_Graph_Excel_REST_ASPNET.Controllers
 {
     public class ErrorController : Controller
     {

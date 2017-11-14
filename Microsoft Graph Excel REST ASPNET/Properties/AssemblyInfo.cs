@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Microsoft_Graph_REST_ASPNET_Connect")]
+[assembly: AssemblyTitle("Microsoft_Graph_Excel_REST_ASPNET")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Microsoft_Graph_REST_ASPNET_Connect")]
+[assembly: AssemblyProduct("Microsoft_Graph_Excel_REST_ASPNET")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

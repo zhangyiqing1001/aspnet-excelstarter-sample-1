@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace Microsoft_Graph_REST_ASPNET_Connect.Models
+namespace Microsoft_Graph_Excel_REST_ASPNET.Models
 {
     public class UserInfo
     {

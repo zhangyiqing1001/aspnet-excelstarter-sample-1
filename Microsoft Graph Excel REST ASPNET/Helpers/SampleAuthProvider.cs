@@ -6,7 +6,7 @@
 using Microsoft.Identity.Client;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.OpenIdConnect;
-using Microsoft_Graph_REST_ASPNET_Connect.TokenStorage;
+using Microsoft_Graph_Excel_REST_ASPNET.TokenStorage;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Linq;
@@ -16,7 +16,7 @@ using System.Web;
 using Resources;
 using System;
 
-namespace Microsoft_Graph_REST_ASPNET_Connect.Helpers
+namespace Microsoft_Graph_Excel_REST_ASPNET.Helpers
 {
     public sealed class SampleAuthProvider : IAuthProvider
     {

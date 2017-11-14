@@ -6,9 +6,9 @@
 using Owin;
 using Microsoft.Owin;
 
-[assembly: OwinStartup(typeof(Microsoft_Graph_REST_ASPNET_Connect.Startup))]
+[assembly: OwinStartup(typeof(Microsoft_Graph_Excel_REST_ASPNET.Startup))]
 
-namespace Microsoft_Graph_REST_ASPNET_Connect
+namespace Microsoft_Graph_Excel_REST_ASPNET
 {
     public partial class Startup
     {

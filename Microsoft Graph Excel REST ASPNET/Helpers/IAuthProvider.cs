@@ -5,7 +5,7 @@
 
 using System.Threading.Tasks;
 
-namespace Microsoft_Graph_REST_ASPNET_Connect.Helpers
+namespace Microsoft_Graph_Excel_REST_ASPNET.Helpers
 {
     public interface IAuthProvider
     {

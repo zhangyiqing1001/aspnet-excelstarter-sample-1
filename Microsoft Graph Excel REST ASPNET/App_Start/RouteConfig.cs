@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Microsoft_Graph_REST_ASPNET_Connect
+namespace Microsoft_Graph_Excel_REST_ASPNET
 {
     public class RouteConfig
     {

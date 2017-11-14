@@ -10,12 +10,12 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OpenIdConnect;
 using System.Configuration;
 using System.Threading.Tasks;
-using Microsoft_Graph_REST_ASPNET_Connect.TokenStorage;
+using Microsoft_Graph_Excel_REST_ASPNET.TokenStorage;
 using System.IdentityModel.Tokens;
 using System.IdentityModel.Claims;
 using Microsoft.Identity.Client;
 
-namespace Microsoft_Graph_REST_ASPNET_Connect
+namespace Microsoft_Graph_Excel_REST_ASPNET
 {
     public partial class Startup
     {

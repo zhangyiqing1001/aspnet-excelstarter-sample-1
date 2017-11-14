@@ -5,13 +5,13 @@
 
 using System.Threading.Tasks;
 using System.Web.Mvc;
-using Microsoft_Graph_REST_ASPNET_Connect.Helpers;
-using Microsoft_Graph_REST_ASPNET_Connect.Models;
+using Microsoft_Graph_Excel_REST_ASPNET.Helpers;
+using Microsoft_Graph_Excel_REST_ASPNET.Models;
 using Resources;
 using System;
 using System.IO;
 
-namespace Microsoft_Graph_REST_ASPNET_Connect.Controllers
+namespace Microsoft_Graph_Excel_REST_ASPNET.Controllers
 {
     public class HomeController : Controller
     {

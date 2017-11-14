@@ -8,11 +8,11 @@ using System.Web.Mvc;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OpenIdConnect;
-using Microsoft_Graph_REST_ASPNET_Connect.TokenStorage;
-using Microsoft_Graph_REST_ASPNET_Connect.Helpers;
+using Microsoft_Graph_Excel_REST_ASPNET.TokenStorage;
+using Microsoft_Graph_Excel_REST_ASPNET.Helpers;
 using System.Security.Claims;
 
-namespace Microsoft_Graph_REST_ASPNET_Connect.Controllers
+namespace Microsoft_Graph_Excel_REST_ASPNET.Controllers
 {
     public class AccountController : Controller
     {
