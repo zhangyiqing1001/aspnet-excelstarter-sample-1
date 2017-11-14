@@ -161,10 +161,6 @@
     <value>Upload to Excel</value>
     <comment>Button text for 'upload to Excel' section in Graph view</comment>
   </data>
-  <data name="Graph_UploadToExcel_Message_GetUserInfoFirst" xml:space="preserve">
-    <value>Please choose the &lt;b&gt;Get user info&lt;/b&gt; button first.</value>
-    <comment>Message if user info is missing</comment>
-  </data>
   <data name="Graph_UploadToExcel_Success_Result" xml:space="preserve">
     <value>Success! Your info was uploaded to Excel.</value>
     <comment>Success message for 'upload to Excel' section in Graph view</comment>

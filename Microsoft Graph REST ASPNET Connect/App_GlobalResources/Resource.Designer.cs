@@ -160,15 +160,6 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Please choose the &lt;b&gt;Get user info&lt;/b&gt; button first..
-        /// </summary>
-        internal static string Graph_UploadToExcel_Message_GetUserInfoFirst {
-            get {
-                return ResourceManager.GetString("Graph_UploadToExcel_Message_GetUserInfoFirst", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Success! Your info was uploaded to Excel..
         /// </summary>
         internal static string Graph_UploadToExcel_Success_Result {

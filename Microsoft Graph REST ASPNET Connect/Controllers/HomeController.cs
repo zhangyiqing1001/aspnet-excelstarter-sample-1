@@ -19,8 +19,6 @@ namespace Microsoft_Graph_REST_ASPNET_Connect.Controllers
 
         public ActionResult Index()
         {
-            ViewBag.Name = "";
-            ViewBag.Email = "";
             return View("Graph");
         }
 
@@ -51,11 +49,6 @@ namespace Microsoft_Graph_REST_ASPNET_Connect.Controllers
         // Upload user information to Excel workbook "demo.xslx."
         public async Task<ActionResult> UploadInfoToExcel()
         {
-            if (string.IsNullOrEmpty(Request.Form["user-email"]))
-            {
-                ViewBag.Message = Resource.Graph_UploadToExcel_Message_GetUserInfoFirst;
-                return View("Graph");
-            }
 
             try
             {
