@@ -67,7 +67,7 @@ This sample requires the following:
 
 6. Choose the **Get email address** button. When the operation completes, the name and email address of the signed-in user are displayed on the page.
 
-7. Choose the **Upload to Excel** button. The application creates a new row in the demo.xlsx workbook and adds the user name and email address to taht row. A Success message is displayed below the button.
+7. Choose the **Upload to Excel** button. The application creates a new row in the demo.xlsx workbook and adds the user name and email address to that row. A Success message is displayed below the button.
 
 ## Questions and comments
 
